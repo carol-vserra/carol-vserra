@@ -1,0 +1,9 @@
+- 👋 Oi, eu sou @carol-vserra
+- 👀 Estou interessada em aprender novos conhecimentos,linguagens ...
+- 🌱 Estou descobrindo e aprendendo o mundo de chatbots...
+- 📫 Pode entrar em contato comigo pelo e-mail benji.cs18@gmail.com  ou pelo linkedin: https://www.linkedin.com/in/carolina-serra2021 ...
+
+<!---
+carol-vserra/carol-vserra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
